@@ -9,6 +9,8 @@ They correspond to 110 patients included in The Cancer Genome Atlas (TCGA) lower
 
 <img width="566" alt="image" src="https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/e35c9cc5-139d-4618-9b13-c902ff25f7fe">
 
+
+
 Prediction results:  
 
 <img width="566" alt="image" src="https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/de43f8b8-0b85-4652-af77-4c2db5af4045">
