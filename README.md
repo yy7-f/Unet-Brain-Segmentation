@@ -1,5 +1,7 @@
 # Unet-Brain-Segmentation
 
+Unet models optimized with the Dice Loss and binary cross entropy loss were developed for brain tumor segmentation. 
+
 Dataset:  
 The dataset contains brain MR images together with manual FLAIR abnormality segmentation masks.
 The images were obtained from The Cancer Imaging Archive (TCIA).
