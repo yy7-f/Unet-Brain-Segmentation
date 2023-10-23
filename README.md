@@ -16,7 +16,7 @@ Upsampling2D
 Decoder part (Expanding Path)
 Skip Connection (Residual connection)
 
-![image](https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/b1996620-cdf6-4628-93ed-0171de28608e)
+<img width="845" alt="image" src="https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/681fd494-4997-454d-8b35-3e4e31a1c0b3">
 
 
 Prediction results:  
