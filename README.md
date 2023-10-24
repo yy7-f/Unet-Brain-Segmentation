@@ -24,7 +24,8 @@ Skip Connection (Residual connection)
   
 Prediction results:  
   
-<img width="566" alt="image" src="https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/de43f8b8-0b85-4652-af77-4c2db5af4045">
+<img width="476" alt="image" src="https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/ac6c2016-b7f2-41f3-9496-06fef1b83c1d">
+
 
   
 Reference:  
