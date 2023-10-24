@@ -1,6 +1,6 @@
 # Unet-Brain-Segmentation
 
-Unet models optimized with the Dice Loss and binary cross entropy loss were developed for brain tumor segmentation. 
+Developed Unet models optimized with the Dice Loss and binary cross entropy loss for brain tumor segmentation. 
 
 Dataset: 
   
