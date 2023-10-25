@@ -26,6 +26,8 @@ Prediction results:
   
 <img width="476" alt="image" src="https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/ac6c2016-b7f2-41f3-9496-06fef1b83c1d">
 
+<img width="433" alt="image" src="https://github.com/yy7-f/Unet-Brain-Segmentation/assets/76237852/4780e045-e339-43a2-9d7e-f56edb4fd451">
+
 
   
 Reference:  
